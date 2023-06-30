@@ -1,6 +1,7 @@
 # AI-Research-Paper
 
 Using Deep Learning to understand and model how a virtual assistant, like Siri, knows when to act
+<br/>
 By: Shravan Devraj<sup>1</sup> and Ross Greer<sup>#</sup>
 <sup>1</sup> Student
 <sup>#</sup> Mentor 
